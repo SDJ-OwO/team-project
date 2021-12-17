@@ -1,1 +1,2 @@
 學git add,git commit,git restore,git restore --staged,git checkout,git merge
+不懂為什麼remote是main,local是master
