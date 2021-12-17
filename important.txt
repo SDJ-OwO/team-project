@@ -1,2 +1,10 @@
-學git add,git commit,git restore,git restore --staged,git checkout,git merge
-不懂為什麼remote是main,local是master
+學
+git add,(done)
+git commit,(done)
+git restore,
+git restore --staged,
+git checkout,(done)
+git merge(done)
+不懂為什麼remote是main,local是master(因為github改預設了)。
+git remote add <name> <url>:配置一個名稱給git repository的網址，呼叫便利。
+git branch --set-upstream-to=<name>/<branch>:將name的網址中的branch加入list。
